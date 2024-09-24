@@ -36,6 +36,7 @@ We typically meet on the last Wednesday
 | Calvin Cestari       | @calvincestari| Apollo (Swift)     | Vancouver, CA         |
 | Martin Bonnin        | @martinbonnin | Apollo             | Paris, FR             |
 | Jordan Eldredge      | @Captbaritone | Meta (Relay)       | San Francisco, US     |
+| Alf Lervåg           | @alf          | Sikt               | Oslo, NO              |
 
 ## Agenda
 
